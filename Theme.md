@@ -8,24 +8,24 @@ With clouds covering the area, thats how you know we are in a "Sky castle"
 
 I want the player to feel like their in a magical place but not in a eutopia because even fairy tails have a good and a bad, and your the hero of this place.
 
-### Questionair
+# Questionnaire
 
-What happend here recently? 
+## What happend here recently? 
 
 A bloody war, a FIGHT for... something... You can't seem to remember you must have been knocked out cold, but you remember the deaths the blood the Violence.
 Your far from base, better start walking.
 
-What should the player be on the lookout for?
+## What should the player be on the lookout for?
 
-The player should be on the look out for anything that can help him weapons, health packs, curage, because the war isn't over and if you want to find you way back home you'll have to go through the battle grounds the enemy might still be there.
+The player should be on the look out for anything that can help him like weapons, health packs, curage, because the war isn't over.
 
-How do people interact with this location before the player arrives?
+## How do people interact with this location before the player arrives?
 
 The enemy is finishing off the rest of your team putting them in ditches and setting the dead on fire, it's a gloomy thought but reality isn't always sunshine and rainbows.
 The battle grounds is a place of action.
 
-What is about to happen?
+## What is about to happen?
 
 Youre about to find your way back to base so you can gear up and take reveange on the basterd that sent your team to heaven. So you can send THEM to HELL
 
-Credits: WAD Name's bridge, cobgra1, sky02jf2 (all wads used in this project can be found on https://www.quaketastic.com/?dir=files/texture_wads )
+
