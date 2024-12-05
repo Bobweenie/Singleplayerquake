@@ -1,31 +1,39 @@
 # Theme
-![Screenshot 2024-11-09 045937](https://github.com/user-attachments/assets/a82629c3-ae04-4d79-94e1-654cada96cc0) ![Screenshot 2024-11-09 050236](https://github.com/user-attachments/assets/1fa8723a-e6ac-47fe-8f14-93f648e190aa) ![Screenshot 2024-11-09 050335](https://github.com/user-attachments/assets/cf5ab747-3d6f-4b6d-8679-6df72f385c83)
 
-When comming up with a theme for my map I thought of a sky castle feeling. Which is my reasoning for my use of these wads here ⬆️
+![Screenshot 2024-12-04 214740](https://github.com/user-attachments/assets/3ad4a6af-3f6c-44e5-b772-dd22c5b08d6b)
+![Screenshot 2024-12-04 214839](https://github.com/user-attachments/assets/9ea379bd-e110-45bb-92e1-d79eb880e114)
+![Screenshot 2024-12-04 214943](https://github.com/user-attachments/assets/bf76be52-85c3-4729-beb7-5383cc0d8040)
 
-You might ask, what is a sky castle? Well imagine a pillar made out of mountain with a flat surface and a small midevil castle on top of it.
-With clouds covering the area, thats how you know we are in a "Sky castle" 
+When coming up with a theme for my map I ran in to these wads named "Unreal_Castle1".
+Thats when I came up with the of a medevil theme that takes place in a dungeon.
 
-I want the player to feel like their in a magical place but not in a eutopia because even fairy tails have a good and a bad, and your the hero of this place.
+And I felt like the wads/textures demenstrated what type of mood I wanted this map to have.
 
-# Questionnaire
+I want the player to feel trapped.
 
-## What happend here recently? 
+## Questions
 
-A bloody war, a FIGHT for... something... You can't seem to remember you must have been knocked out cold, but you remember the deaths the blood the Violence.
-Your far from base, better start walking.
+### What is about to happen here?
 
-## What should the player be on the lookout for?
+You are about to break free from your chains of inpresement and find a way out of this dungeon.
 
-The player should be on the look out for anything that can help him like weapons, health packs, curage, because the war isn't over.
+### Where is the toilet?
 
-## How do people interact with this location before the player arrives?
+The architectural style of this castle is gothic but your dungeon not so much. The bathroom is located in the master bed room!
 
-The enemy is finishing off the rest of your team putting them in ditches and setting the dead on fire, it's a gloomy thought but reality isn't always sunshine and rainbows.
-The battle grounds is a place of action.
+### How does it connect to other spaces?
 
-## What is about to happen?
+Well we start in a not so nice dungeon the question is who the hell put you there? As you travel through the map deteating enenmys you soon start to relize who might be the one in power here, they might be the same person who put you in that dungeon.
 
-Youre about to find your way back to base so you can gear up and take reveange on the basterd that sent your team to heaven. So you can send THEM to HELL
+### What rooms do this area normally contain?
 
+In this castle you may find some of the following rooms. 
+- Great halls
+- The kings room
+- Kitchen
+- Storage rooms
+- Dungeon
 
+### What here is powerful or valuable?
+
+One of the most valuable things to the player is patience, because when your trying to break of a prison you want to make sure you do it without being caught or worse KILLED.
