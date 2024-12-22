@@ -11,4 +11,7 @@ Kill the ones who dare to stand in your way of freedome.
 
 # Trailer
 
-https://youtu.be/vqXDUAwE53c 
+https://youtu.be/vqXDUAwE53c
+
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/e15fc4ae-32b9-47e5-ac82-8c741f82c837)
+
